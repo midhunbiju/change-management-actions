@@ -9,7 +9,7 @@ This project and the following release notes have been migrated from the old Ara
 Release | Notes
 --------|--------
 [v3](https://github.com/ArasLabs/change-management-actions/releases/tag/v3) | Release for Aras Innovator 11.0 SP10. Actions are included for PRs and ECRs, but other actions were removed as they are now part of standard product.
-[v2](https://github.com/ArasLabs/change-management-actions/releases/tag/v2) | Release for Aras Innovator 9.1 Actions are included for PRs, ECR, ECNs, ECOs and MCOs. The administrator should hide those that won't be used.
+[v2](https://github.com/ArasLabs/change-management-actions/releases/tag/v2) | Release for Aras Innovator 9.1 Actions are included for PRs, ECR, ECNs, ECOs, and MCOs. The administrator should hide those that won't be used.
 [v1.2](https://github.com/ArasLabs/change-management-actions/releases/tag/v1.2) | Fix naming conflict with the Multi-Level BOM Tools package
 [v1.1](https://github.com/ArasLabs/change-management-actions/releases/tag/v1.1) | Fix for import errors
 [v1](https://github.com/ArasLabs/change-management-actions/releases/tag/v1) | Initial Release
